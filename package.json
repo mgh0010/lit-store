@@ -1,0 +1,17 @@
+{
+  "name": "lifeline",
+  "description": "get stuff done, quickly, efficiently",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "@vaadin/router": "^1.6.0",
+    "lit-element": "^2.2.1",
+    "rxjs": "^6.5.4"
+  },
+  "devDependencies": {
+    "@polymer/test-fixture": "^4.0.2",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "wct-mocha": "^1.0.1"
+  }
+}

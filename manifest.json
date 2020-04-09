@@ -1,0 +1,7 @@
+{
+  "name": "lifeline",
+  "short_name": "lifeline",
+  "description": "get stuff done, quickly, efficiently",
+  "start_url": "/",
+  "display": "standalone"
+}
